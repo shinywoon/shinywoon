@@ -14,8 +14,10 @@
   <img src="https://extmovie.com/files/attach/images/135/664/379/030/834e72f55551a663d2f611a4a4b200ac.gif"/>
   <br>
   <br>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23C385F1&title_bg=%23CFADD5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-    <br>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshinywoon%2Fhit-counter&count_bg=%23EB03FF&title_bg=%23F3A6F1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+    
+  <br>
     <br>
 ✍️ I always try to study hard ✍️
   <br>
