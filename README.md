@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=I'm%20ShinYwoon&fontSize=40&animation=blinking&descAlign=100&descAlign=100)
 
-<p align="center">
-  <img src="https://extmovie.com/files/attach/images/135/664/379/030/834e72f55551a663d2f611a4a4b200ac.gif">
-</p
-
 ### 📚Tech Stack📚 
 
 ---
