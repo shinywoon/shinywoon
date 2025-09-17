@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=I'm%20ShinYwoon&fontSize=40&animation=blinking&descAlign=100&descAlign=100)
 
 ### 📚Tech Stack📚 
 
